@@ -13,6 +13,4 @@ Interested in ML, data-driven systems & real-world applications
 
 Exploring FastAPI, React, PostgreSQL & LLMs
 
-Curious about how things work under the hood
-
 Always learning, building, and experimenting.
