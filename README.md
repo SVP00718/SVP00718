@@ -1,16 +1,12 @@
 ## Hi there 👋
+##I’m Shreevardhan
 
-<!--
-**SVP00718/SVP00718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSE Student at MIT Manipal
+Exploring AI/ML, Deep Learning & AI Agents
+Python | Java | C | NumPy | Pandas
+Currently sharpening DSA & CS fundamentals
+Building projects to learn by doing
+Interested in ML, data-driven systems & real-world applications
+Exploring FastAPI, React, PostgreSQL & LLMs
+Curious about how things work under the hood
+Always learning, building, and experimenting.
