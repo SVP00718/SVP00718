@@ -1,5 +1,5 @@
 ## Hi there 👋
-##I’m Shreevardhan
+I’m Shreevardhan
 
 CSE Student at MIT Manipal
 Exploring AI/ML, Deep Learning & AI Agents
